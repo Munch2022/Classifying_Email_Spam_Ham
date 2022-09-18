@@ -1,9 +1,10 @@
 # Classifying_Email_Spam_Ham
 This repo contains the code that demonstrates predicting if the Email is Spam or not
 
-Email spam Classification: 
+Email spam Classification:   
 
-Project Overview
+Project Overview- 
+
 •	Created a classifier tool that can predict if the given email is spam or not
 
 •	Dataset obtained from Kaggle
