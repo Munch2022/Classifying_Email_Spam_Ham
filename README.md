@@ -11,7 +11,7 @@ Project Overview-
 
 •	Implemented BERT model for this classification problem
 
-•	Have used the trained models that are already available in tensorflow hub website to solve this problem statement
+•	Have used the trained models of BERT that are already available in tensorflow hub website to solve this problem statement
 
 •	A simple neural network has been used along with one Drop out layer and one Output layer
 
