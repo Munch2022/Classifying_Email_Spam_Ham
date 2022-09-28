@@ -3,7 +3,7 @@ This repo contains the code that demonstrates predicting whether the Email is Sp
 
 Email spam Classification:   
 
-Project Overview- 
+# Project Overview- 
 
 •	Created a classifier tool that can predict if the given email is spam or not
 
